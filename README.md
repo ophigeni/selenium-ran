@@ -18,7 +18,7 @@ sudo apt-get update
 
 sudo apt-get install git -y
 
-git clone [[[https://github.com/ophigeni/selenium-ophigeni](https://github.com/ophigeni/selenium-ran)](https://github.com/ophigeni/selenium-ran)](https://github.com/ophigeni/selenium-ran)
+git clone (https://github.com/ophigeni/selenium-ran)
 
 
 # install-selenium-and-ect
